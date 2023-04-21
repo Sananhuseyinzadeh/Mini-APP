@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\bin\Debug\MiniLayiheApp.Core.dll
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\bin\Debug\MiniLayiheApp.Core.pdb
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\obj\Debug\MiniLayiheApp.Core.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\obj\Debug\MiniLayiheApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\obj\Debug\MiniLayiheApp.Core.csproj.CopyComplete
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\obj\Debug\MiniLayiheApp.Core.dll
+C:\Users\Acer\source\repos\MiniLayiheApp.App\MiniLayiheApp.Core\obj\Debug\MiniLayiheApp.Core.pdb
